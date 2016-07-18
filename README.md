@@ -1,0 +1,2 @@
+# HaarVerticalFeatureSlidingWindow
+Calculate integral values calling the Integral Image class. The feature class produces a sliding window and generates a position to lay down the window for further calculations. Calculates area of a given window.The window in this particular case is a vertical window meaning that the two portions to be subtracted, to calculate the features, lay one on top of the other. The Image Area class has two functions; CalculateArea which calculates the feature areas after calling the other function of the class; Points calculate.
